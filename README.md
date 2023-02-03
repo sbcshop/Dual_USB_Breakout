@@ -5,7 +5,7 @@ Dual USB Breakout is a great solution for prototypes, DIY projects, and much mor
 
 ## Pin Maping/Connections
 
-<img src ="" />
+<img src ="https://github.com/sbcshop/Dual_USB_Breakout/blob/main/images/Dual_usb_connections.png" />
 
 * To use our Dual USB Breakout, follow the jumper connections as shown in above image.
 * You can leave the 5v and GND pin open, because it is internally conncted.
