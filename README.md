@@ -7,7 +7,7 @@ Dual USB Breakout is a great solution for prototypes, DIY projects, and much mor
 ## Repository Contents
 
 * [**/Design Data**](https://github.com/sbcshop/Dual_USB_Breakout/tree/main/Design_Data) - This directory contains Schematic and Dimension files
-* [**/Mechanical Data**]() - This directory contains 3D and STEP files
+* [**/Mechanical Data**](https://github.com/sbcshop/Dual_USB_Breakout/tree/main/Mechanical_Data) - This directory contains 3D and STEP files
 
 ## Pin Maping/Connections
 
