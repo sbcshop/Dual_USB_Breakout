@@ -22,9 +22,9 @@ Dual USB Breakout is a great solution for prototypes, DIY projects, and much mor
 
 ## Related Products
 
-* [PiTalk](https://shop.sb-components.co.uk/products/pitalk-modular-smartphone-for-raspberry-pi?variant=12516562436179)
+* [USB RTC](https://shop.sb-components.co.uk/products/usb-rtc-for-raspberry-pi-1?_pos=1&_sid=1c25ca65c&_ss=r)
 
- ![PiTalk](https://cdn.shopify.com/s/files/1/1217/2104/products/PiTalk_-_Modular_SmartPhone_for_Raspberry_Pi_5.png?v=1528805795&width=400)
+ ![USB RTC](https://cdn.shopify.com/s/files/1/1217/2104/products/1_39baf362-25ec-466b-a6b8-11319c81b65e.jpg?v=1665636609&width=400)
  
  
 
