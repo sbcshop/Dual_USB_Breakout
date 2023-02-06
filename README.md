@@ -14,17 +14,8 @@ Dual USB Breakout is a great solution for prototypes, DIY projects, and much mor
 <img src ="https://github.com/sbcshop/Dual_USB_Breakout/blob/main/images/Dual_usb_connections.png" />
 
 * To use our Dual USB Breakout, follow the jumper connections as shown in above image.
-* You can leave the 5v and GND pin open, because it is internally conncted.
-* After the connection, plugin your one One USB end end to your system and now you can connect any USB devices in remaining USB slots.
+* After the connection, plugin your one USB end end to your system and now you can connect any USB devices in remaining USB slots.
 
-
-## Related Products
-
-* [USB RTC](https://shop.sb-components.co.uk/products/usb-rtc-for-raspberry-pi-1?_pos=1&_sid=1c25ca65c&_ss=r)
-
- ![USB RTC](https://cdn.shopify.com/s/files/1/1217/2104/products/1_39baf362-25ec-466b-a6b8-11319c81b65e.jpg?v=1665636609&width=400)
- 
- 
 
 ## Product License
 
