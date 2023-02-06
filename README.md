@@ -17,14 +17,6 @@ Dual USB Breakout is a great solution for prototypes, DIY projects, and much mor
 * You can leave the 5v and GND pin open, because it is internally conncted.
 * After the connection, plugin your one One USB end end to your system and now you can connect any USB devices in remaining USB slots.
 
-## Documentation
-
-* [PiTalk-2G HAT Hardware](https://github.com/sbcshop/Pitalk_2G_HAT_Hardware)
-* [Getting Started with Raspberry Pi](https://www.raspberrypi.com/documentation/computers/getting-started.html)
-* [Raspberry Pi Pico Official website](https://www.raspberrypi.com/documentation/microcontrollers/)
-* [Raspberry Pi Datasheet](https://www.raspberrypi.com/documentation/computers/compute-module.html)
-* [Raspberry Hardware Design](https://www.raspberrypi.com/documentation/computers/compute-module.html)
-* [Raspberry Pi](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
 
 ## Related Products
 
